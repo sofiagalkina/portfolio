@@ -2,7 +2,7 @@
 
 This is my eportfolio that contains links to my favorite projects and a technology stack I can work with. The purpose of this project was to have an easily accessible website to send with my resume for frontend development jobs.
 
-[Software Demo Video](https://youtu.be/rRHEh4Egdps)
+[Software Demo Video](https://youtu.be/4TcyXme_OYc)
 
 # Development Environment
 
